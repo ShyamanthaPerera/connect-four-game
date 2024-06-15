@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>lk.ijse.dep</groupId>
-    <artifactId>connect-four-assignment</artifactId>
+    <artifactId>connect-four-game</artifactId>
     <version>0.1.0</version>
 
     <properties>
